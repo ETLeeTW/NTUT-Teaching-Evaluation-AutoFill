@@ -4,7 +4,7 @@
 >程式仍在開發中，已經可以用了但尚未完成，可能會有點不穩定。如果遇到任何問題，請寫信給我。
 ## 安裝方式 (Chrome)
 1. 下載此專案的chromeExtensionCode資料夾
-2. 前往[chrome://extension](chrome://extension )
+2. 前往[chrome://extensions/](chrome://extensions/ )
 3. 開啟`開發人員模式`
 4. 點擊`載入未封裝項目`
 5. 選取剛剛下載下來的`chromeExtensionCode`資料夾
