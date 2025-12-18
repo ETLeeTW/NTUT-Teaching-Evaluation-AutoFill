@@ -1,4 +1,4 @@
-# NTUT-TEA 北科大教學評量小助手 NTUT Teaching Evaluation Autofill
+# NTUT-TEA🍵 北科大教學評量小助手 NTUT Teaching Evaluation Autofill
 
 這目前是一個Chrome Extension, 可以在包括Google Chrome, Microsoft Edge, Opera等的Chromium base的瀏覽器運作。
 >程式仍在開發中，已經可以用了但尚未完成，可能會有點不穩定。如果遇到任何問題，請寫信給我。
